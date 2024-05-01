@@ -18,7 +18,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/shayaan-ahmad-893a69241/](https://www.linkedin.com/in/shayaan-ahmad-893a69241/)
 
 - ⚡ Fun fact **I want to be funny.**
+- 
 ![](https://leetcard.jacoblin.cool/shayaanahmad7867?ext=heatmap)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shayaan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayaan ahmad" height="30" width="40" /></a>
